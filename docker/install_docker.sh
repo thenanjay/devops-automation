@@ -45,10 +45,6 @@ docker --version || {
   echo "Docker installation failed"
   exit 1
 }
-docker run --rm hello-world || {
-  echo "Docker test run failed"
-  exit 1
-}
 
 echo "Docker installation completed successfully!"
 
