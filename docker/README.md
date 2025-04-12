@@ -7,7 +7,3 @@ curl https://raw.githubusercontent.com/thenanjay/devops-automation/refs/heads/ma
 ```
 curl https://raw.githubusercontent.com/thenanjay/devops-automation/refs/heads/main/docker/uninstall_docker.sh | sudo bash
 ```
-```
-```
-```
-```
